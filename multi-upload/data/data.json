@@ -1,0 +1,8 @@
+{
+    "name": "Mì xào bò",
+    "price": 10,
+    "images": ["public\\uploads\\file-1598465047131-mi xao bo.png", 
+        "public\\uploads\\file-1598465047131-mi xao bo.png"]
+}
+
+//db.products.remove({"name":"Phim heo"} )
